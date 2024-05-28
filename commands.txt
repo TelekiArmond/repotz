@@ -1,0 +1,23 @@
+1. Git egy verziókezelő rendszer. ami nyomon követi a kódot, a github pedig egy online adattároló
+2. A comit-al lehet menteni,
+3. Egy munka ág,
+
+$ git config --global user.name "TelekiArmond"
+
+$ git config --global user.email "teleki.armond.mario@blathy.info"
+
+$ git clone https://github.com/TelekiArmond/repotz
+
+$ cd repotz
+
+$ git init
+
+$ git add *
+
+$ git checkoud -b future
+
+$ git checkout main
+
+$ git merge
+
+$ git push
